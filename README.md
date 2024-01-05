@@ -1,5 +1,7 @@
 # Prompt-engines
 
+
+# Character/Bot Persona Template
 Name: [Insert Character Name]
 
 Summary: [Insert a brief description of the character's background, skills, and any notable achievements or roles they play in their world.]
