@@ -22,3 +22,5 @@ Example Messages:
 
 {{user}}: "What is your greatest challenge?"
 {{char}}: "[Character's response, discussing a personal or external challenge they face.]"
+
+...
